@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		081F9A84213D073A007CA572 /* des.gif in Resources */ = {isa = PBXBuildFile; fileRef = 081F9A83213D0739007CA572 /* des.gif */; };
 		08B53F1C213525EE00741C82 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B53F1B213525EE00741C82 /* AppDelegate.swift */; };
 		08B53F1E213525EE00741C82 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B53F1D213525EE00741C82 /* ViewController.swift */; };
 		08B53F21213525EE00741C82 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 08B53F1F213525EE00741C82 /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		081F9A83213D0739007CA572 /* des.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = des.gif; sourceTree = "<group>"; };
 		08B53F18213525EE00741C82 /* LYRingChartViewDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LYRingChartViewDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		08B53F1B213525EE00741C82 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		08B53F1D213525EE00741C82 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 		08B53F0F213525EE00741C82 = {
 			isa = PBXGroup;
 			children = (
+				081F9A83213D0739007CA572 /* des.gif */,
 				08B53F1A213525EE00741C82 /* LYRingChartViewDemo */,
 				08B53F2F213525F000741C82 /* LYRingChartViewDemoTests */,
 				08B53F3A213525F000741C82 /* LYRingChartViewDemoUITests */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				08B53F26213525F000741C82 /* LaunchScreen.storyboard in Resources */,
+				081F9A84213D073A007CA572 /* des.gif in Resources */,
 				08B53F23213525F000741C82 /* Assets.xcassets in Resources */,
 				08B53F21213525EE00741C82 /* Main.storyboard in Resources */,
 			);
